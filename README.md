@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhy</h1>
 <h3 align="center">A passionate Software Engineer and Designer based in Calgary, AB 🇨🇦</h3>
 
+<br>
+
 - 🔭 I’m currently working on **My portfolio website!**
 
 - 🌱 I’m currently learning **React Native and Backend Dev**
