@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My portfolio website!**
 
-- 🌱 I’m currently learning **React Native and Backend Dev**
+- 🌱 I’m currently learning **NextJS and Backend Dev**
 
 - 👯 I’m looking to collaborate on **anything! I love dipping my toes into untested waters**
 
