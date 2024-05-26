@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My blog!**
 
-- 🌱 I’m currently learning **Backend Dev and D3js**
+- 🌱 I’m currently **Brushing up my foundation**
 
 - 👯 I’m looking to collaborate on **anything! I love dipping my toes into untested waters**
 
