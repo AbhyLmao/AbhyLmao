@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhy</h1>
-<h3 align="center">A passionate Software Engineer and Designer based in Calgary, AB 🇨🇦</h3>
+<h3 align="center">A passionate Software Engineer and Designer based in Calgary, AB</h3>
 
 <br>
 
-- 🔭 I’m currently working on **My blog!**
+- 🔭 I’m currently working on **a cuter portfolio website!**
 
-- 🌱 I’m currently **Brushing up my foundation**
+- 🌱 I’m currently **Brushing up my foundation and grinding leetcode >:)**
 
 - 👯 I’m looking to collaborate on **anything! I love dipping my toes into untested waters**
 
 - 💬 Ask me about **My future endeavours (I have a LOT!!)**
 
 - 📫 Email me at - **artsyabhy@gmail.com**
+
+- 👽 Check out my best projects below! **↓↓↓↓↓**
 
 <br>
 <br>
