@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **a cuter portfolio website!**
 
-- 🌱 I’m currently **Brushing up my foundation and grinding leetcode >:)**
-
-- 👯 I’m looking to collaborate on **anything! I love dipping my toes into untested waters**
-
-- 💬 Ask me about **My future endeavours (I have a LOT!!)**
+- 🌱 I’m currently **Brushing up my foundation and grinding leetcode**
 
 - 📫 Email me at - **artsyabhy@gmail.com**
 
